@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gun Simulator v1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="about">Dark Blue Inc. 2016\n- Huseyin BADUK\n- Mazlum LACO</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">Welc</string>
+    <string name="title_activity_about">About Us</string>
+    <string name="title_activity_tut">Tutorial</string>
+    <string name="banner_ad_unit_id1">ca-app-pub-1583132169815895/4419802922</string>
+    <string name="banner_ad_unit_id2">ca-app-pub-1583132169815895/5896536126</string>
+</resources>
